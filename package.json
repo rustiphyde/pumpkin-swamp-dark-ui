@@ -1,7 +1,7 @@
 {
   "name": "pumpkin-swamp-dark-ui",
   "theme": "ui",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A UI theme created to accompany the pumpkin-swamp-dark-syntax theme",
   "license": "MIT",
   "repository": "https://github.com/rustiphyde/pumpkin-swamp-dark-ui",
